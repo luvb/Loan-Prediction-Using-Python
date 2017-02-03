@@ -1,5 +1,3 @@
-Employee Churn Analytics using Survival Analysis- SAS BASE
-
 Goal of this project is to identity and answer the following questions:
 a.	Who are leaving the company?
 b.	Why are they leaving?
